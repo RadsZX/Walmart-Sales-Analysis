@@ -1,0 +1,3 @@
+for mysql through terminal
+
+mysql -u root -p
